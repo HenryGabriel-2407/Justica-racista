@@ -1,6 +1,6 @@
 # Justica-racial
 
-## Olá pessoal, beleza? 
+## Olá pessoal, beleza? 👋 🙂
 Estava realizando uma limpa do meu notebook e vi um arquivo de Construct 2, ao abrir eu vi meu trabalho de filosofia sobre “Racismo no sistema da Justiça” como tema do Dia da Consciência Negra em 2021 em neste formato “jogo” / apresentação. Então decidi compartilhar aqui no Github. Primeiramente, leia sobre a Biografia do Luis da Gama e sobre o sistema da Justiça brasileira em relação ao racismo para entender melhor o objetivo do jogo / apresentação. 
 
 Por favor, se estiver algo errado ou incompleto, comente para estar mais completo, e melhor possível. E estou pensando em gravar um vídeo desenvolvendo e "jogando" / apresentando no youtube. Vamos lá?
